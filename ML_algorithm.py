@@ -1,6 +1,3 @@
-#Creator
-#@psifrous  - github
-#namanbanal9909@gmail.com - e-mail
 
 
 
